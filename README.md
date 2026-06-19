@@ -1,10 +1,6 @@
 <h1 align="center">> Hey There!, I am Bùi Hải Trọng</h1>
 
 <p align="center">
-  <strong>Backend Developer</strong>
-</p>
-
-<p align="center">
   A passionate and detail-oriented Backend Developer specialized in building scalable server-side architectures, designing robust APIs, and optimizing database performance. Dedicated to solving complex technical challenges, mastering modern system design patterns, and delivering high-quality production code through hands-on project experience.
 </p>
 
