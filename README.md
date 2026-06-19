@@ -7,22 +7,23 @@
 </p>
 
 <p align="center">
-  <a href="https://bhtdev.work">
+  <a href="https://bhtdev.work" target="_blank">
     <img src="https://img.shields.io/badge/WEBSITE-bd081c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
 
-  <a href="https://www.linkedin.com/in/bhaitrong">
+  <a href="https://www.linkedin.com/in/bhaitrong" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="https://www.youtube.com/@bht_swe">
+  <a href="https://www.youtube.com/@bht_swe" target="_blank">
     <img src="https://img.shields.io/badge/YOUTUBE-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 
-  <a href="https://www.instagram.com/_bht904_">
+  <a href="https://www.instagram.com/_bht904_" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
 
 <br />
 
