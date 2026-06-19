@@ -11,9 +11,10 @@
     <img src="https://img.shields.io/badge/WEBSITE-bd081c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
 
-  <a href="https://www.linkedin.com/in/bhaitrong" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<a href="https://www.linkedin.com/in/bhaitrong">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
 
   <a href="https://www.youtube.com/@bht_swe" target="_blank">
     <img src="https://img.shields.io/badge/YOUTUBE-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
