@@ -1,115 +1,20 @@
-<!-- HEADER SECTION với hiệu ứng gradient -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&random=false&width=600&lines=Hey+There!+I+am+B%C3%B9i+H%E1%BA%A3i+Tr%E1%BB%8Dng;Backend+Developer;API+Architect;System+Design+Enthusiast" alt="Typing SVG" />
-</div>
+<!-- Tiêu đề chạy lướt qua màn hình tạo điểm nhấn đầu trang -->
+<marquee behavior="scroll" direction="left" scrollamount="4"><h1 align="center">> Hey There!, I am Bùi Hải Trọng</h1></marquee>
 
-<!-- DIVIDER trang trí -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
-</div>
+<p align="center">
+  A passionate and detail-oriented Backend Developer specialized in building scalable server-side architectures, designing robust APIs, and optimizing database performance. Dedicated to solving complex technical challenges, mastering modern system design patterns, and delivering high-quality production code through hands-on project experience.
+</p>
 
-<!-- BANNER GIỚI THIỆU với thiết kế card -->
-<table align="center" border="0" cellpadding="20" style="border-collapse: collapse; max-width: 900px; margin: 20px auto;">
-  <tr>
-    <td align="center" style="border: 2px solid #00D2FF; border-radius: 20px; padding: 30px 40px; background: linear-gradient(145deg, #0a0a0a 0%, #1a1a2e 100%); box-shadow: 0 0 40px rgba(0, 210, 255, 0.1);">
-      
-      <!-- Avatar / Icon -->
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="80" height="80" />
-      </div>
-      
-      <!-- Badge chức danh -->
-      <div align="center" style="margin: 15px 0;">
-        <img src="https://img.shields.io/badge/⚡ BACKEND%20DEVELOPER-00D2FF?style=for-the-badge&labelColor=0a0a0a" alt="Backend Developer" />
-        <img src="https://img.shields.io/badge/🚀 SYSTEM%20DESIGN-FF6B6B?style=for-the-badge&labelColor=0a0a0a" alt="System Design" />
-        <img src="https://img.shields.io/badge/💻 API%20ARCHITECT-4ECDC4?style=for-the-badge&labelColor=0a0a0a" alt="API Architect" />
-      </div>
-      
-      <!-- Mô tả với hiệu ứng glow -->
-      <div style="text-align: center; padding: 10px 0; color: #c0c0c0; font-size: 16px; line-height: 1.8; max-width: 800px; text-shadow: 0 0 20px rgba(0, 210, 255, 0.05);">
-        <span style="color: #00D2FF; font-weight: bold;">❝</span>
-        A passionate and detail-oriented Backend Developer specialized in building 
-        <span style="color: #FF6B6B;">scalable server-side architectures</span>, 
-        designing <span style="color: #4ECDC4;">robust APIs</span>, 
-        and optimizing <span style="color: #FFD93D;">database performance</span>.
-        <br><br>
-        Dedicated to solving complex technical challenges, mastering modern 
-        <span style="color: #A78BFA;">system design patterns</span>, 
-        and delivering high-quality production code through hands-on project experience.
-        <span style="color: #00D2FF; font-weight: bold;">❞</span>
-      </div>
-      
-      <!-- Divider -->
-      <div align="center" style="margin: 15px 0;">
-        <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
-      </div>
-      
-      <!-- Social Links với hover effect -->
-      <div align="center" style="margin: 10px 0;">
-        <a href="mailto:buihaitrong.dev@gmail.com">
-          <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-        </a>
-        <a href="https://github.com/bht-04">
-          <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-        <a href="https://github.com/bht-04">
-          <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-        </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-        </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-        </a>
-      </div>
-      
-      <!-- Tech Stack mini -->
-      <div align="center" style="margin-top: 15px;">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      </div>
-      
-      <!-- Profile views counter -->
-      <div align="center" style="margin-top: 15px;">
-        <img src="https://komarev.com/ghpvc/?username=bht-04&label=PROFILE%20VIEWS&color=00D2FF&style=flat" alt="Profile views" />
-        <img src="https://img.shields.io/github/followers/bht-04?label=FOLLOWERS&style=flat&color=00D2FF" alt="Followers" />
-        <img src="https://img.shields.io/github/stars/bht-04?label=STARS&style=flat&color=FFD93D" alt="Stars" />
-      </div>
-      
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="mailto:buihaitrong.dev@gmail.com"><img src="https://img.shields.io/badge/WEBSITE-bd081c?style=for-the-badge" alt="Website" /></a>
+  <a href="https://github.com/bht-04"><img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://github.com/bht-04"><img src="https://img.shields.io/badge/TWITTER-1da1f2?style=for-the-badge" alt="Twitter" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/INSTAGRAM-e1306c?style=for-the-badge" alt="Instagram" /></a>
+</p>
 
-<!-- Divider cuối -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
-</div>
+<br />
 
-<!-- Animation chạy chữ mới với effect đẹp hơn -->
-<marquee behavior="scroll" direction="left" scrollamount="6" truespeed>
-  <span style="color: #00D2FF;">✦</span> JavaScript 
-  <span style="color: #FFD93D;">✦</span> Node.js 
-  <span style="color: #4ECDC4;">✦</span> Express.js 
-  <span style="color: #A78BFA;">✦</span> .NET Core 
-  <span style="color: #FF6B6B;">✦</span> RESTful API 
-  <span style="color: #00D2FF;">✦</span> WebSocket 
-  <span style="color: #FFD93D;">✦</span> MongoDB 
-  <span style="color: #4ECDC4;">✦</span> MySQL 
-  <span style="color: #A78BFA;">✦</span> Docker 
-  <span style="color: #FF6B6B;">✦</span> Git 
-  <span style="color: #00D2FF;">✦</span> Linux 
-  <span style="color: #FFD93D;">✦</span> AWS 
-  <span style="color: #4ECDC4;">✦</span> Redis 
-  <span style="color: #A78BFA;">✦</span> JWT 
-  <span style="color: #FF6B6B;">✦</span> GraphQL 
-  <span style="color: #00D2FF;">✦</span> TypeScript 
-  <span style="color: #FFD93D;">✦</span> Nginx 
-  <span style="color: #4ECDC4;">✦</span> PM2 
-  <span style="color: #A78BFA;">✦</span> Swagger 
-  <span style="color: #FF6B6B;">✦</span> ✦
-</marquee>
+## Use To Code
+
+<!-- TOÀN BỘ BADGE ĐƯỢC VIẾT TRÊN 1 DÒNG DUY NHẤT ĐỂ ÉP GHÉP HÀNG NGANG KHÔNG BỊ NGẮT DỌC -->
+<marquee behavior="scroll" direction="left" scrollamount="5"><img src="https://img.shields.io/badge/JAVASCRIPT-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JAVASCRIPT" /> &nbsp; <img src="https://img.shields.io/badge/NODE.JS-6da55f?style=for-the-badge&logo=node.js&logoColor=white" alt="NODEJS" /> &nbsp; <img src="https://img.shields.io/badge/EXPRESS.JS-404d59?style=for-the-badge&logo=express&logoColor=white" alt="EXPRESSJS" /> &nbsp; <img src="https://img.shields.io/badge/C%23%20(.NET)-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSHARP" /> &nbsp; <img src="https://img.shields.io/badge/RESTful%20API-0288d1?style=for-the-badge" alt="RESTAPI" /> &nbsp; <img src="https://img.shields.io/badge/SOCKET.IO%20/%20WEBSOCKET-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="SOCKETIO" /> &nbsp; <img src="https://img.shields.io/badge/AUTHENTICATION-e65100?style=for-the-badge" alt="AUTH" /> &nbsp; <img src="https://img.shields.io/badge/MYSQL-00758f?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" /> &nbsp; <img src="https://img.shields.io/badge/MONGODB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" alt="MONGODB" /> &nbsp; <img src="https://img.shields.io/badge/GIT%20%26%20GITHUB-f05033?style=for-the-badge&logo=git&logoColor=white" alt="GIT" /> &nbsp; <img src="https://img.shields.io/badge/POSTMAN-ff6c37?style=for-the-badge&logo=postman&logoColor=white" alt="POSTMAN" /> &nbsp; <img src="https://img.shields.io/badge/FIGMA-f24e1e?style=for-the-badge&logo=figma&logoColor=white" alt="FIGMA" /> &nbsp; <img src="https://img.shields.io/badge/ADOBE%20XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="ADOBEXD" /> &nbsp; <img src="https://img.shields.io/badge/UI%2FUX%20DESIGN-ff4081?style=for-the-badge" alt="UIUX" /> &nbsp; <img src="https://img.shields.io/badge/RESPONSIVE%20DESIGN-00bcd4?style=for-the-badge" alt="RESPONSIVE" /> &nbsp; <img src="https://img.shields.io/badge/USER%20EXPERIENCE-7c4dff?style=for-the-badge" alt="UX" /> &nbsp; <img src="https://img.shields.io/badge/USER%20INTERFACE-ff6f00?style=for-the-badge" alt="UI" /> &nbsp; <img src="https://img.shields.io/badge/PROTOTYPING-00c853?style=for-the-badge" alt="PROTOTYPE" /></marquee>
