@@ -6,22 +6,18 @@
   A passionate and detail-oriented Backend Developer specialized in building scalable server-side architectures, designing robust APIs, and optimizing database performance. Dedicated to solving complex technical challenges, mastering modern system design patterns, and delivering high-quality production code through hands-on project experience.
 </p>
 
-<p align="center">
-  <a href="mailto:buihaitrong.dev@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-bd081c?style=for-the-badge" alt="Email" />
-  </a>
-  <a href="https://github.com/bht-04">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge" alt="GitHub" />
-  </a>
-  <a href="#">
+<p align="center"> 
+  <a href="https://bhtdev.work">
+    <img src="https://img.shields.io/badge/WEBSITE-bd081c?style=for-the-badge" alt="Website" />
+  </a> 
+  <a href="https://www.linkedin.com/in/bhaitrong">
     <img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/TWITTER-1da1f2?style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="#">
+  </a> 
+  <a href="https://www.youtube.com/@bht_swe">
+    <img src="https://img.shields.io/badge/YOUTUBE-ff0000?style=for-the-badge" alt="YouTube" />
+  </a> <a href="https://www.instagram.com/_bht904_">
     <img src="https://img.shields.io/badge/INSTAGRAM-e1306c?style=for-the-badge" alt="Instagram" />
-  </a>
+  </a> 
 </p>
 
 <br />
