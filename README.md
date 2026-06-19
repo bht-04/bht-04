@@ -1,22 +1,16 @@
 <div align="center">
   
 <h1>> Hey There!, I am Bùi Hải Trọng</h1>
-
----
 <p align="center" style="max-width: 750px; line-height: 1.6; color: #8b949e;">
   A passionate and detail-oriented Backend Developer specialized in building scalable server-side architectures, designing robust APIs, and optimizing database performance. Dedicated to solving complex technical challenges, mastering modern system design patterns, and delivering high-quality production code through hands-on project experience.
 </p>
 
-<!-- Các nút liên hệ mạng xã hội dạng Badge phẳng -->
 <p align="center">
   <a href="mailto:buihaitrong.dev@gmail.com"><img src="https://img.shields.io/badge/WEBSITE-bd081c?style=for-the-badge" alt="Website" /></a>
   <a href="https://github.com/bht-04"><img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://github.com/bht-04"><img src="https://img.shields.io/badge/TWITTER-1da1f2?style=for-the-badge" alt="Twitter" /></a>
   <a href="#"><img src="https://img.shields.io/badge/INSTAGRAM-e1306c?style=for-the-badge" alt="Instagram" /></a>
 </p>
-
----
-
 </div>
 
 <br />
@@ -38,3 +32,5 @@
     <img src="https://img.shields.io/badge/POSTMAN-ff6c37?style=for-the-badge&logo=postman&logoColor=white" alt="POSTMAN" />
   </p>
 </blockquote>
+
+---
