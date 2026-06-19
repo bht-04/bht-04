@@ -1,116 +1,114 @@
-<!-- Header with typing effect -->
+<!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=B%C3%99I+H%E1%BA%A2I+TR%E1%BB%8ANG;Backend+Developer;Final+Year+IT+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=B%C3%99I+HAI+TRONG;Backend+Developer;Final+Year+IT+Student" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Backend%20Developer-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+<br/>
 
----
+<!-- SIDEBAR + MAIN CONTENT LAYOUT -->
+<table width="100%">
+  <tr>
+    <!-- SIDEBAR - LEFT COLUMN -->
+    <td width="30%" valign="top" style="background: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d;">
 
-## About Me
+      <h1>BÙI HẢI TRỌNG</h1>
+      <p><strong>bht-04</strong></p>
 
-Hello! I'm **Bui Hai Trong** — a final-year **Information Technology** student at **Nguyen Tat Thanh University**. I'm passionate about backend development, solving real-world problems, and continuously learning to improve my technical skills.
+      <hr/>
 
-> Goal: To become a professional Backend Developer, building scalable, secure, and high-performance systems.
+      <p><em>Turning complex problems into simple solutions</em></p>
 
----
+      <p>📋 Backend Developer</p>
+      <p>📍 Le Duc Tho, Go Vap, HCMC</p>
+      <p>📧 buihaitrong.dev@gmail.com</p>
+      <p>📧 <a href="https://github.com/bht-04">github.com/bht-04</a></p>
+      <p>📧 <a href="https://your-portfolio-link.com">your-portfolio-link.com</a></p>
 
-## Contact Information
+      <hr/>
 
-| | |
-|---|---|
-| Address | Le Duc Tho, Go Vap, HCMC |
-| Email | buihaitrong.dev@gmail.com |
-| Phone | +84 973 112 480 |
-| GitHub | [github.com/bht-04](https://github.com/bht-04) |
-| Portfolio | [https://bhtdev.work](https://bhtdev.work) |
+      <h3>Use To Code</h3>
 
----
+      <h4>JAVASCRIPT</h4>
+      <p>
+        <code>NODE.JS</code>
+        <code>EXPRESS.JS</code>
+        <code>C# (.NET)</code>
+        <code>SOCKET.IO</code>
+        <code>RESTful API</code>
+        <code>JWT</code>
+        <code>MONGODB</code>
+        <code>MYSQL</code>
+        <code>GIT</code>
+        <code>POSTMAN</code>
+      </p>
 
-## Tech Stack
+      <hr/>
 
-### Languages & Frameworks
+      <h3>Achievements</h3>
+      <p>🎉 Finalist</p>
+      <p>🎉 55</p>
+      <p>🎉 20</p>
 
-- JavaScript
-- Node.js (Express.js)
-- C# (.NET)
+    </td>
 
-### Databases
+    <!-- MAIN CONTENT - RIGHT COLUMN -->
+    <td width="70%" valign="top" style="padding-left: 20px;">
 
-- MongoDB
-- MySQL
+      <h2>Pinned</h2>
 
-### Tools & Technologies
+      <!-- Project 1 -->
+      <div style="background: #161b22; padding: 16px 20px; border-radius: 12px; border: 1px solid #30363d; margin-bottom: 16px;">
+        <h3><a href="#" style="color: #58a6ff; text-decoration: none;">Food Delivery Platform - PizzaTP</a></h3>
+        <p style="color: #8b949e; font-size: 14px;">Public</p>
+        <p style="color: #c9d1d9; font-size: 14px; line-height: 1.6;">
+          Food ordering system for customers, admins, and shippers. Real-time order tracking with Socket.IO, payment integration with Stripe.
+        </p>
+        <p>
+          <code style="background: #21262d; color: #8b949e; padding: 2px 10px; border-radius: 20px; border: 1px solid #30363d;">JavaScript</code>
+        </p>
+        <p style="color: #8b949e; font-size: 13px;">
+          🔥 55 &nbsp;|&nbsp; 🔥 20
+        </p>
+      </div>
 
-- Git & GitHub
-- Postman
-- Socket.IO / WebSocket
-- JWT (Authentication & Authorization)
-- RESTful API Development
+      <hr/>
 
-### Soft Skills
+      <h2>Other</h2>
 
-- System Design & Problem Solving
-- Teamwork & Collaboration
-- Git Flow
-- Technical Documentation
+      <!-- Project 2 -->
+      <div style="background: #161b22; padding: 16px 20px; border-radius: 12px; border: 1px solid #30363d; margin-bottom: 16px;">
+        <h3><a href="#" style="color: #58a6ff; text-decoration: none;">Community Support Platform - TechShare</a></h3>
+        <p style="color: #8b949e; font-size: 14px;">Public</p>
+        <p style="color: #c9d1d9; font-size: 14px; line-height: 1.6;">
+          Platform connecting users with volunteers. Real-time chat, notifications, support workflow, and interaction history.
+        </p>
+        <p>
+          <code style="background: #21262d; color: #8b949e; padding: 2px 10px; border-radius: 20px; border: 1px solid #30363d;">JavaScript</code>
+        </p>
+        <p style="color: #8b949e; font-size: 13px;">
+          🔥 308 &nbsp;|&nbsp; 🔥 231
+        </p>
+      </div>
 
----
+      <hr/>
 
-## Education
+      <!-- Footer -->
+      <div style="background: #161b22; padding: 16px 20px; border-radius: 12px; border: 1px solid #30363d;">
+        <p>
+          <a href="#" style="color: #58a6ff; text-decoration: none; margin-right: 20px;">E-commerce Platform - HTShop</a>
+          <a href="#" style="color: #58a6ff; text-decoration: none; margin-right: 20px;">Memory Garden</a>
+          <span style="color: #8b949e;">Public</span>
+        </p>
+      </div>
 
-| | |
-|---|---|
-| University | Nguyen Tat Thanh University |
-| Major | Information Technology |
-| Duration | 09/2022 – 09/2026 |
-
----
-
-## Awards & Achievements
-
-- Finalist – 14th "Design, Manufacturing, Application" Award (06/2026)
-  Project: Memory Garden supporting Alzheimer's patients
-- Completed Internal English Test – Nguyen Tat Thanh University
-- Participated in multiple university-level programming competitions
-
----
-
-## Interests
-
-- Exploring new technologies (microservices, Docker, AWS)
-- Reading tech news and industry trends
-- Solving algorithms & system design problems
-- Listening to music, reading computer science books
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bht-04&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bht-04&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bht-04&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-## Connect with Me
-
-[Email](mailto:buihaitrong.dev@gmail.com) | [GitHub](https://github.com/bht-04) | [LinkedIn](https://linkedin.com/in/bht04) | [Portfolio](https://bhtdev.work)
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bht-04&style=flat-square&color=blue" alt="Profile views" />
-  
-  Thanks for visiting! Let's connect and build amazing products together!
+  <br/>
+  <sub>© 2026 Bùi Hải Trọng · Backend Developer</sub>
 </div>
