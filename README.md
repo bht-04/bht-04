@@ -1,13 +1,8 @@
-# bht-04 / README.md
-
 <div align="center">
-
-<!-- Tiêu đề & Vai trò định hướng -->
+  
 <h1>> Hey There!, I am Bùi Hải Trọng</h1>
 
 ---
-
-<!-- Đoạn giới thiệu bản thân -->
 <p align="center" style="max-width: 750px; line-height: 1.6; color: #8b949e;">
   A passionate and detail-oriented Backend Developer specialized in building scalable server-side architectures, designing robust APIs, and optimizing database performance. Dedicated to solving complex technical challenges, mastering modern system design patterns, and delivering high-quality production code through hands-on project experience.
 </p>
@@ -26,9 +21,8 @@
 
 <br />
 
-## 🛠️ Use To Code
+## Use To Code
 
-<!-- Sử dụng khối blockquote tạo hiệu ứng thanh trượt / cuộn (Scroll) tự nhiên khi danh sách badge dài ra -->
 <blockquote>
   <p align="left">
     <img src="https://img.shields.io/badge/JAVASCRIPT-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JAVASCRIPT" />
@@ -44,12 +38,3 @@
     <img src="https://img.shields.io/badge/POSTMAN-ff6c37?style=for-the-badge&logo=postman&logoColor=white" alt="POSTMAN" />
   </p>
 </blockquote>
-
-<br />
-
-<!-- Tính năng đóng/mở cuộn ẩn nội dung gọn gàng dành cho UX di động nâng cao -->
-<details>
-  <summary><b>Click to view technical stack details</b></summary>
-  <br />
-  <p>All core technologies are carefully chosen and continuously practiced to maintain high system security and optimize data pipeline processing efficiency.</p>
-</details>
