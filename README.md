@@ -12,10 +12,8 @@
   </a>
 
 <a href="https://www.linkedin.com/in/bhaitrong">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-
 
   <a href="https://www.youtube.com/@bht_swe" target="_blank">
     <img src="https://img.shields.io/badge/YOUTUBE-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
